@@ -1,0 +1,3 @@
+# License
+
+MIT OR BSD OR GPL-2.0 OR GPL-3.0
